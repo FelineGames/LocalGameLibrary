@@ -7,12 +7,12 @@
   ## What's Present?
 • Game Manager (Add Main Executable Manually)
 
-• Auto-detect **Game Folders** (Default: Desktop\Saves\<YourGame>)
-
 • Edit Game Icon, Title, Description & Author
 
   ## What's NOT Present (yet)
 • Settings Functionality (Greyed-out)
+
+• Auto-detect **Game Folders** (Default: Desktop\Saves\<YourGame>)
 
 • Auto-Detect (Planned)
 
