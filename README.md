@@ -14,6 +14,8 @@
   ## What's NOT Present (yet)
 • Settings Functionality (Greyed-out)
 
+• Auto-Detect (Planned)
+
 • MUCH MORE..
 
   ## HOW Was it Made?
