@@ -1,27 +1,36 @@
 # Local Games Library Manager
 
-  ## Screenshots
+> Made by **Feline Games**
+>
+> Licensed Under [```MIT License```](https://opensource.org/license/mit)
+
+## Screenshots
 <img width="1919" height="984" alt="image" src="https://github.com/user-attachments/assets/4a103189-b6e4-457a-b8e4-84b6b94c1147" />
 
+## What's new in v0.5?
 
-  ## What's Present?
 • Game Manager (Add Main Executable Manually)
 
 • Edit Game Icon, Title, Description & Author!
 
 • **Settings** Enables you to change Main Header (e.g. Library is Default) and Also see Developer Credits [_More Features Coming Soon_]
 
-  ## What's NOT Present (yet)
+## Roadmap (Commitments)
 
 • Auto-detect **Game Folders** (Default: Desktop\Saves\<YourGame>)
 
-• MUCH MORE..
+• Coming Soon
 
-  ## HOW Was it Made?
+## IDE Suggestions
+
+• **VS Code** (For Linux, assuming Python is installed)
+
 • **Visual Studio** (Python Development Workload)
 
-• Project Type; **Python Application**
+• **PyCharm** (Not Recommended for Windows users)
+ 
+## Framework Dependency Requirement:
 
-• Application Development Framework:
-[Tkinter] ❌
-[PyQt6] ✅
+• [Tkinter] ❌
+
+• [PyQt6] ✅
