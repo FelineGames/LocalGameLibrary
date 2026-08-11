@@ -1,36 +1,39 @@
-# Local Games Library Manager
+## App Library
 
-> Made by **Feline Games**
->
-> Licensed Under [```MIT License```](https://opensource.org/license/mit)
+> **The Official Source Code for App Library**
 
-## Screenshots
-<img width="1919" height="984" alt="image" src="https://github.com/user-attachments/assets/4a103189-b6e4-457a-b8e4-84b6b94c1147" />
+[![License:](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/FelineGames/applibrary)](https://github.com/FelineGames/applibrary/issues)
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-blue)](https://github.com/FelineGames/forge/discussions)
 
-## What's new in v0.5?
+---
 
-• Game Manager (Add Main Executable Manually)
+## 📌 Quick Links
 
-• Edit Game Icon, Title, Description & Author!
+- 📋 **[Contributing](CONTRIBUTING.md)** - disabled
+- 🔒 **[Privacy Policy](https://felinegames.qzz.io/policy/)** - policies
+- 📝 **[Terms of Servics](https://felinegames.qzz.io/policy/terms)** - terms
+  
+---
 
-• **Settings** Enables you to change Main Header (e.g. Library is Default) and Also see Developer Credits [_More Features Coming Soon_]
+## Project Overview
 
-## Roadmap (Commitments)
+- Developed with the WinUI framework provided by Microsoft included in Windows App SDK.
+- Written in Pure C# and XAML for ui in .NET 10 (core)
+- Originally written in Python → [View Deprecated Source Code](https://github.com/felinegames/AppLibrary/tree/legacy)
+- The Solution can only be opened in certain IDEs like Visual Studio, VS Code and JetBrains Rider.
 
-• Auto-detect **Game Folders** (Default: Desktop\Saves\<YourGame>)
+---
 
-• Coming Soon
+## 📄 License
 
-## IDE Suggestions
+- 🍪 Permissive Access to freely fork & modify into it's own custom Standalone App.
+- ⚠️ Required to give credits to this repository (if you're making it Proprietary, not applicable for Open Source Forks)
+- 🪪 AppLibrary is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
-• **VS Code** (For Linux, assuming Python is installed)
+---
 
-• **Visual Studio** (Python Development Workload)
+## Trademark Owner™
 
-• **PyCharm** (Not Recommended for Windows users)
- 
-## Framework Dependency Requirement:
-
-• [Tkinter] ❌
-
-• [PyQt6] ✅
+- **Publisher:** Feline Games
+- **Developer:** @.kelsa_ / @notsummer69 (formerly)
